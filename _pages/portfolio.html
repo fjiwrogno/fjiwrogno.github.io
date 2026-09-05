@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Selected Robotics Systems"
+permalink: /portfolio/
+author_profile: true
+---
+
+These pages focus on **physical robotic systems I built, integrated, controlled, or experimentally validated**. Each page highlights the system, my contribution, technical stack, and representative results.
+
+{% include base_path %}
+
+{% assign sorted = site.portfolio | sort: "order" %}
+{% for post in sorted %}
+  {% include archive-single.html %}
+{% endfor %}

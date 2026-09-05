@@ -1,0 +1,12 @@
+main:
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Photos"
+    url: /photos/

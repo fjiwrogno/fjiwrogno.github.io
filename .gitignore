@@ -1,0 +1,15 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+.DS_Store
+
+# Source materials (keep originals outside the repo, e.g. ../website_source_materials/)
+*.pptx
+~$*
+*.MOV
+draft.md
+image.png
+image-[0-9]*.png

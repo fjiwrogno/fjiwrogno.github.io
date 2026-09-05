@@ -1,0 +1,1 @@
+Add personal/travel/experiment images here. Use web-friendly JPEG/WebP files whenever possible.
