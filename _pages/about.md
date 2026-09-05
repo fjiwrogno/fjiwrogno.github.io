@@ -31,7 +31,7 @@ B.Eng., Space Environmental and Life Supporting Engineering , School of Astronau
 ## Aerial–Aquatic Robots
 
 <figure style="margin:1rem 0;">
-  <img src="{{ '/images/projects/aerial-aquatic-overview.jpg' | relative_url }}"
+  <img src="{{ '/images/projects/aerial-aquatic-overview.png' | relative_url }}"
        alt="Overview of the Flamingo bi-copter and Nami articulated aerial–aquatic robots"
        style="width:100%;max-width:900px;border-radius:6px;">
   <figcaption style="font-size:0.9rem;color:#555;margin-top:0.6rem;line-height:1.6;">

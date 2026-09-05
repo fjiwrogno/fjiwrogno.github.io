@@ -10,7 +10,7 @@ header:
   teaser_video: /videos/covers/flamingo-cover.mp4
 ---
 
-<img src="{{ '/images/projects/flamingo/air-water.jpg' | relative_url }}" alt="Flamingo aerial and underwater experiments" style="width:100%;max-width:850px;border-radius:6px;">
+<img src="{{ '/images/projects/flamingo/design-prototype.jpg' | relative_url }}" alt="Flamingo design and prototype: CAD model with the tilt angle of the vectoring propulsion unit, and the physical prototype in the flight arena" style="width:100%;max-width:850px;border-radius:6px;">
 
 ## Overview
 
@@ -23,6 +23,12 @@ Each of its two tilting propulsion units carries one aerial rotor and one aquati
 <img src="{{ '/images/projects/flamingo/solidworks-design.png' | relative_url }}" alt="SolidWorks rendering of the Flamingo bi-copter, showing the two tilting propulsion units and the waterproof cylindrical fuselage" style="width:100%;max-width:850px;border-radius:6px;">
 
 *SolidWorks design of Flamingo. The two tilting propulsion modules each carry a dedicated aerial rotor (top) and aquatic rotor (bottom), mounted on a shared tilting axis. The cylindrical waterproof fuselage houses all electronics, and the curved landing legs support both ground takeoff and water entry.*
+
+## Hardware architecture
+
+<img src="{{ '/images/projects/flamingo/hardware-layout.png' | relative_url }}" alt="Overall arrangement of electronic components: aerial and aquatic motors with their ESCs, 6s battery, Spinal controller board, onboard computer, voltage and depth sensors, DC-DC converters, and two tilting servos" style="width:100%;max-width:850px;border-radius:6px;">
+
+*Overall arrangement of the electronic components. A 6s battery powers two domain-specific propulsion branches (aerial motors + 160 A ESC, aquatic motors + 4-in-1 ESC), a real-time controller board, and an onboard computer; DC-DC converters supply the two tilting servos, while voltage and depth sensors provide monitoring and underwater state feedback.*
 
 ## My contribution
 

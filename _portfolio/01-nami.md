@@ -10,7 +10,7 @@ header:
   teaser_video: /videos/covers/nami-cover.mp4
 ---
 
-<img src="{{ '/images/projects/nami/prototype.jpg' | relative_url }}" alt="Nami prototype" style="width:100%;max-width:850px;border-radius:6px;">
+<img src="{{ '/images/projects/nami/design-overview.png' | relative_url }}" alt="Nami design overview: isometric CAD view with body and world coordinate frames, top views of the two-link configuration, and the physical prototype" style="width:100%;max-width:850px;border-radius:6px;">
 
 ## Overview
 
